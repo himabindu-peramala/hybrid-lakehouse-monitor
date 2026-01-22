@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.DS_Store
+.env
+.venv
+env/
+venv/
+target/
+.idea/
+.vscode/
+*.log
+metastore_db/
+spark-warehouse/
+derby.log
